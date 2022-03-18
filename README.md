@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Test-movie-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1647623175/media/Screenshot_42_vuiwoo.png" title="Movie Site" alt="Movie Website">...
 
 ## Available Scripts
 
